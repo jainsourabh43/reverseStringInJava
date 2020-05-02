@@ -1,5 +1,9 @@
 package coreJavaConceptsPkg;
-
+/*
+ * @author Sourabh Jain
+ * 
+ * 
+ */
 public class RemoveDuplicateCharFromString {
 
 	public static void main(String[] args) {
